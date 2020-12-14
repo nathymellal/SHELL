@@ -1,6 +1,6 @@
 
 
-# :red_circle: La composition d'un système d'exploitation
+# La composition d'un système d'exploitation
 >  Le système d'exploitation est un ensemble de programmes qui dirige l'utilisation des ressources d'un ordinateur par des logiciels applicatifs. Il est composé d'un noyau nommé KERNEL et d'une coquille apelée SHELL ( OS ).
 
 
@@ -20,7 +20,7 @@
 
 
 
-## :red_circle: Le Shell, c'est quoi ?
+##  Le Shell, c'est quoi ?
 Le shell est un interpréteur, disons que c'est un programme qui interprète des commandes données par l'utilisateur et les exécute en les transmettant au système d'exploitation.
 Les commandes sont saisie via une console ou/et un terminal par l'utilisateur, c'est commandes sont ensuite interpréter par le Shell. 
 
