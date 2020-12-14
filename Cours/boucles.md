@@ -15,6 +15,7 @@ done
 - `do` renvoi au ALORS
 - `done` renvoi a la FIN DE LA BOUCLE
 
-:small_red_triangle: le `while`
+:small_red_triangle: le `while` renvoi au TANT QUE.
+
 
 
