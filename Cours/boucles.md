@@ -25,7 +25,7 @@ done
 ```
 - `while` renvoi au TANT QUE
 - `do` renvoi au ALORS FAIT
--``
+-`done` renvoi a la FIN DE LA BOUCLE
 
 
  :back: [Sommaire](https://github.com/nathymellal/SHELL/blob/main/README.md)
