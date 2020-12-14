@@ -7,7 +7,7 @@ Les conditions se note comme cela :
 - `else` :arrow_right: donne SINON
 - `fi`   :arrow_right: donne la fin de la conditions
 
-On peut administrer des conditions sur des fichiers, nombres et des chaines de caractères.
+On peut administrer des conditions sur des fichiers, opérateur et des chaines de caractères.
 
 ###  :small_red_triangle: Fichiers
 
@@ -25,17 +25,17 @@ On peut administrer des conditions sur des fichiers, nombres et des chaines de c
 * `[-n $string]` :arrow_right: savoir si string n'est pas vide
 
 
-###  :small_red_triangle: Nombres
+###  :small_red_triangle: Opérateur
 
-* `[$nombre0 -ne $nombre1]` :arrow_right: savoir si les nombres ne sont pas égaux
-* `[$nombre0 -eq $nombre1 ]` :arrow_right: savoir si les nombres sont égaux
-* `[ $nombre0 -lt $nombre1 ]	` :arrow_right: savoir si nombre0 est supérieure a nombre1
-* `[ $nombre0 -gt $nombre1 ]` :arrow_right: savoir si les nombre0 est inférieure a nombre1
+* `[$valeur0 -ne $valeur1]` :arrow_right: savoir si les nombres ne sont pas égaux
+* `[$valeur0 -eq $valeur1 ]` :arrow_right: savoir si les nombres sont égaux
+* `[ $valeur0 -lt $valeur1 ]	` :arrow_right: savoir si nombre0 est supérieure a nombre1
+* `[ $valeur0 -gt $valeur1 ]` :arrow_right: savoir si les nombre0 est inférieure a nombre1
 
 **conditions avec la double parenthèse**
 
-* `(( nombre0 == nombre1 ))	` :arrow_right: savoir si les nombres sont égaux
-* `(( nombre0 != nombre1 ))	` :arrow_right: savoir si les nombres ne sont pas égaux
+* `(( valeur0 == valeur1 ))	` :arrow_right: savoir si les nombres sont égaux
+* `(( valeur0 != valeur1 ))	` :arrow_right: savoir si les nombres ne sont pas égaux
 
 
 
