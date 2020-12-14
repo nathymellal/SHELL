@@ -38,6 +38,9 @@ On peut administrer des conditions sur des fichiers, opérateur et des chaines d
 * `(( valeur0 != valeur1 ))	` :arrow_right: savoir si les nombres ne sont pas égaux
 
 
+ :back:[Sommaire](https://github.com/nathymellal/SHELL/blob/main/README.md)
+
+
 
 
 
