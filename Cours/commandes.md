@@ -33,7 +33,7 @@ Cette commande `cat` permet d'afficher de contenu d'un fichier.
 Cette commande `cp` permet de coller et/ou copier un fichier ou un dossier
 
 
-:back: [Sommaire](https://github.com/nathymellal/SHELL)
+:back: [Sommaire](https://github.com/nathymellal/SHELL/blob/main/README.md)
 
 
 
