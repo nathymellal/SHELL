@@ -29,9 +29,9 @@ On peut administrer des conditions sur des fichiers, nombres et des chaines de c
 
 * `[$nombre0 -ne $nombre1]` :arrow_right: savoir si les nombres ne sont pas égaux
 * `[$nombre0 -eq $nombre1 ]` :arrow_right: savoir si les nombres sont égaux
-
 * `[ $nombre0 -lt $nombre1 ]	` :arrow_right: savoir si nombre0 est supérieure a nombre1
 * `[ $nombre0 -gt $nombre1 ]` :arrow_right: savoir si les nombre0 est inférieure a nombre1
+
 
 
 
