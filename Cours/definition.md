@@ -29,6 +29,16 @@ Les commandes sont saisie via une console ou/et un terminal par l'utilisateur, c
 - intéragir avec le système 
 - création, édition et supression de fichier
 
+
+
+:small_red_triangle: **Dates importantes**
+
+- 1971 : premier shell par Ken Thompson avec la première version d'Unix.
+- 1983 : David Korn, publie le Korn Shell 
+- 1990 : Paul Falstad, créa zsh une étendue du sh ( Bourne Shell )
+
+
+
 [Le Sommaire](https://github.com/nathymellal/SHELL/blob/main/README.md)
 
 
