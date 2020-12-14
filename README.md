@@ -9,7 +9,7 @@ Ce répertoire contient :
 
 ##   Sommaire 
 1. [Les définitions et histoire](./Cours/definition.md)
-* [Autres version de Shell]
+* [Autres version de Shell](https://github.com/nathymellal/SHELL/blob/main/Cours/version.md)
 
 2. [Les commandes Shell](./Cours/commandes.md)
 * [Les variables](https://github.com/nathymellal/SHELL/blob/main/Cours/variables.md)
