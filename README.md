@@ -16,7 +16,8 @@ Ce répertoire contient :
 * [Les conditions](https://github.com/nathymellal/SHELL/blob/main/Cours/conditions.md)
 * [Les boucles](https://github.com/nathymellal/SHELL/blob/main/Cours/boucles.md)
 
-3. [Les TP]
+3. Les TP
+* [TP1](https://github.com/nathymellal/SHELL/blob/main/TP/tp1.md)
 
 
 
