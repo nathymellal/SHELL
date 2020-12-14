@@ -4,4 +4,12 @@ Le bute d'une boucle est de répéter une action jusqu'a ce que une condition so
 
 ###  :small_red_triangle: `for`
 
-Le `for` renvoi au POUR, exemple :
+Le `for` renvoi au POUR.
+```
+for var in valeur0 valeur1; do
+    action
+done
+
+```
+- `for` renvoi au POUR
+- ``
