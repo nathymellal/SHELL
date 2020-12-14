@@ -17,5 +17,14 @@ done
 
 :small_red_triangle: le `while` renvoi au TANT QUE.
 
+```
+while [ condition ]; do
+    action à effectuer
+done
+
+```
+- `while` renvoi au TANT QUE
+- `do` renvoi au ALORS FAIT
+-``
 
 
