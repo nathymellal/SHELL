@@ -1,6 +1,13 @@
-# Le SHELL
+# :red_circle: Le SHELL
 
-## Sommaire 
+
+## Introduction
+
+Ce répertoire contient :
+- Un README.md qui inclus le sommaire
+- Un dossier `cours` qui inclus des `fichier.md`
+
+##   Sommaire 
 1. [Les définitions et histoire](./Cours/definition.md)
 
 2. [Les commandes Shell](./Cours/commandes.md)
