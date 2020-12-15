@@ -6,6 +6,26 @@ Les conditions se note comme cela :
 - `then` :arrow_right: donne ALORS
 - `else` :arrow_right: donne SINON
 - `fi`   :arrow_right: donne la fin de la conditions
+ 
+Exemple : 
+* Condition `If`
+```
+if [ condition ]
+then
+        echo "action"
+fi
+```
+* Condition `Then`/`Else`
+```
+if [ condition ]
+then
+        echo "act1"
+else
+        echo "act2"
+fi
+```
+
+La condition `Elif` ( sinon si ) permet de vérifier plusieures actions ( la 1ère, la 2ème, la 3ème .....) et si aucunes conditions n'est remplis, éffectuer une action.
 
 On peut administrer des conditions sur des fichiers, opérateur et des chaines de caractères.
 
