@@ -1,5 +1,6 @@
 # Les conditions
-L'intéret de la condition est de faire une action si une opération est faite, par exemple : `si` "il a beaucoup d'argent",`alors` "il peut investire". `sinon` "il n'investit pas ".
+L'intérêt de la condition est de faire une action si une opération est faite, par exemple : `s'il a beaucoup d'argent",`alors` "il peut investir". `sinon` "il n'investit pas ".
+
 Les conditions se note comme cela :
 
 - `if`   :arrow_right: donne SI
@@ -34,8 +35,8 @@ else
         echo "..."
 fi
 ```
+La condition `Élif` ( sinon si) permet de vérifier plusieurs actions ( la 1re, la 2ème, la 3ème ...) et si aucune condition n'est remplis, effectuer une action.
 
-La condition `Elif` ( sinon si ) permet de vérifier plusieures actions ( la 1ère, la 2ème, la 3ème .....) et si aucunes conditions n'est remplis, éffectuer une action.
 
 On peut administrer des conditions sur des fichiers, nombre et des chaines de caractères.
 
