@@ -6,7 +6,7 @@ Le bute d'une boucle est de répéter une action jusqu'a ce que une condition so
 :small_red_triangle: Le `for` renvoi au POUR. Exemple, POUR un jeux dans cette liste suivante " jeux de guerre " " jeux d'aventure ", donner chaque jeux et acheter le.
 ```
 for var in valeur0 valeur1; do
-    action
+     echo action
 done
 
 ```
@@ -15,11 +15,22 @@ done
 - `do` renvoi au ALORS
 - `done` renvoi a la FIN DE LA BOUCLE
 
+Exemple :
+``` 
+for jeux in 'aventure' 'guerre' 'fantastique' do
+        echo "A quelle thème appartien ce jeux ? : $jeux"
+done
+```
+```
+A quelle thème appartien ce jeux ? : aventure 
+A quelle thème appartien ce jeux ? : guerre
+A quelle thème appartien ce jeux ? : fantastique
+```
 :small_red_triangle: le `while` renvoi au TANT QUE.
 
 ```
 while [ condition ]; do
-    action à effectuer
+   echo action à effectuer
 done
 
 ```
