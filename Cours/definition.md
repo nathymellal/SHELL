@@ -46,7 +46,7 @@ Les commandes sont saisies via une console où/et un terminal par l'utilisateur,
 
 - 1990 : Paul Falstad, création zsh une étendue du sh ( Bourne Shell ).
 
-Pour résumer le Shell permet d'accéder a une gamme d'outils très performants qui permettent d'effectuer des tâches complexes et de les automatise, enfin le shell est une interface graphique très rapide et efficace.
+Pour résumer le Shell permet d'accéder  à une gamme d'outils très performants qui permettent d'effectuer des tâches complexes et de les automatise, enfin le shell est une interface graphique très rapide et efficace.
 
 
 
