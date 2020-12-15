@@ -34,8 +34,18 @@ Les commandes sont saisie via une console ou/et un terminal par l'utilisateur, c
 :small_red_triangle: **Dates importantes**
 
 - 1971 : premier shell par Ken Thompson avec la première version d'Unix.
-- 1983 : David Korn, publie le Korn Shell 
-- 1990 : Paul Falstad, créa zsh une étendue du sh ( Bourne Shell )
+
+- 1977 : apparition du Bourne Shell (sh) créé par Stephen Bourne.
+
+- 1978 : la création du C Shell (csh) par Bill Joy.
+
+- 1983 : David Korn, publie le Korn Shell.
+
+- 1988: la création du Bourne-Again Shell (bash) par Brian Fox pour Free Software Foundation .
+
+- 1990 : Paul Falstad, création zsh une étendue du sh ( Bourne Shell ).
+
+Pour résumer le Shell permet d'accéder a une gamme d'outils très performants qui permettent d'effectuer des tâches complexes et de les automatise, enfin le shell est une interface graphique très rapide et efficace.
 
 
 
