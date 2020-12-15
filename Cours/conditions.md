@@ -35,7 +35,7 @@ else
         echo "..."
 fi
 ```
-La condition `Élif` ( sinon si) permet de vérifier plusieurs actions ( la 1re, la 2ème, la 3ème ...) et si aucune condition n'est remplis, effectuer une action.
+La condition `Elif` ( sinon si) permet de vérifier plusieurs actions ( la 1re, la 2ème, la 3ème ...) et si aucune condition n'est remplis, effectuer une action.
 
 
 On peut administrer des conditions sur des fichiers, nombre et des chaines de caractères.
