@@ -52,10 +52,5 @@ Le paramètre 1 est param3
 
 
 
-
-
-
-
-
- :back: [Sommaire](https://github.com/nathymellal/SHELL/blob/main/README.md)
+:back: [Sommaire](https://github.com/nathymellal/SHELL/blob/main/README.md)
 
