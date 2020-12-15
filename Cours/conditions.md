@@ -24,6 +24,16 @@ else
         echo "act2"
 fi
 ```
+On peut aussi utiliser des symboles comme `&&` qui signifie "ET" et `||` qui signifie "OU" :
+```
+if [ $# -ge 1 ] && [ $1 = 'adresse' ]
+then
+        echo "Bravo !"
+        echo "..."
+else
+        echo "..."
+fi
+```
 
 La condition `Elif` ( sinon si ) permet de vérifier plusieures actions ( la 1ère, la 2ème, la 3ème .....) et si aucunes conditions n'est remplis, éffectuer une action.
 
