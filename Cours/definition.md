@@ -22,7 +22,9 @@
 
 ##  Le Shell, c'est quoi ?
 > Le shell est un interpréteur, disons que c'est un programme qui interprète des commandes données par l'utilisateur et les exécute en les transmettant au système d'exploitation.
-Les commandes sont saisie via une console ou/et un terminal par l'utilisateur, c'est commandes sont ensuite interpréter par le Shell. 
+Les commandes sont saisie via une console ou/et un terminal par l'utilisateur, c'est commandes sont ensuite interpréter par le Shell. e Shell de l'OS possède deux environnements  l'environnement console (GLI) en ligne de commande et un environnement graphique (GUI) une interface graphiques.
+
+
 
 :small_red_triangle: **Que permet donc le Shell ?**
 - exécuter des commandes
