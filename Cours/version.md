@@ -1,5 +1,5 @@
 
-Il existe d'autre version de Shell, 
+Il existe d'autres version de Shell, 
 
 -  Le Bourne Shell `Sh`, Shell accessible sur toute plateforme UNIX 
 
