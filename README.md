@@ -27,6 +27,7 @@ Ce répertoire contient :
 
 ## Mon avis sur ce travail 
 
+Ce projet était très intéressant à produire, en effet malgré la situation sanitaire et l'obligation du travail en distanciel j'ai pu progresser dans de nombreuses compétences dont l'autonomie, la collaboration. De surcroit j'ai pu élargir mon champ de connaissances sur le Shell, en apprendre davantage sur son histoire et son utilisation. Pour conclure, je retiens que des aspects positifs et enrichissent sur ce projet.
 
 
 
