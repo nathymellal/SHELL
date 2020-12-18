@@ -48,7 +48,7 @@ then
     sudo userdel $2
 fi
 ```
-`Utilisation des commande useradd/userdel, useradd permet la création d'un utilisateur et userdel de sa supression. Enfin le sudo permet d'executer une commande en administrater `
+`Utilisation des commande useradd/userdel` :heavy_exclamation_mark:` useradd permet la création d'un utilisateur et userdel de sa supression. Enfin le sudo permet d'executer une commande en administrater `
 
 ```bash
 if [ $1 = show ]
