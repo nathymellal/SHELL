@@ -37,6 +37,7 @@ done
 - `while` renvoi au TANT QUE
 - `do` renvoi au ALORS FAIT
 - `done` renvoi a la FIN DE LA BOUCLE
+Il est possible d'iverser un `while` avec la commande until.
 
 
  :back: [Sommaire](https://github.com/nathymellal/SHELL/blob/main/README.md)
