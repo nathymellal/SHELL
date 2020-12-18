@@ -24,7 +24,7 @@ Ce répertoire contient :
 
 * [TP1](https://github.com/nathymellal/SHELL/blob/main/TP/tp1.md) :white_check_mark:
 
-* [TP4](https://github.com/nathymellal/SHELL/blob/main/TP/tp4.md) :white_medium_small_square:
+* [TP4](https://github.com/nathymellal/SHELL/blob/main/TP/tp4.md) :white_large_square:
 
 
 ##  :o: Mon avis sur ce travail 
