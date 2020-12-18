@@ -9,7 +9,7 @@
 Ce répertoire contient :
 
 - Un README.md qui inclus le sommaire
-- Un dossier `cours` qui inclus des `fichier.md`
+- Un dossier `cours` qui inclus des  fichiers  `.md`
 
 ##  :o: Sommaire 
 1. [Les définitions et histoire](./Cours/definition.md)
