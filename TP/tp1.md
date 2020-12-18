@@ -35,6 +35,8 @@ then
 fi     
 ``` 
 `Une boucle qui permet le lancement du menu`
+
+
 ```bash
 if [ $1 = add ]
 then
@@ -45,12 +47,19 @@ if [ $1 = delete ]
 then
     sudo userdel $2
 fi
+```
+`Utilisation des commande useradd/userdel, useradd permet la création d'un utilisateur et userdel de sa supression. Enfin le sudo permet d'executer une commande en administrater `
 
+```bash
 if [ $1 = show ]
 then
     getent passwd $user > /dev/null
 fi 
+```
+`getent affiche les entrées, ici c'est les utilisateur `
 
+
+```bash
 if [ $1 = modify ]
 then
     echo "Que voulez-vous modifié ?"
@@ -75,6 +84,8 @@ then
 fi
 
 ```
+
+`Ici on modifie le mots de passe en fonction des chiffres choisit et l'utilisateur avec l'aide des boucles nbrmodify`
 
 
 :back:[Sommaire](https://github.com/nathymellal/SHELL/blob/main/README.md)
