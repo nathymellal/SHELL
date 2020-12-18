@@ -56,7 +56,7 @@ then
     getent passwd $user > /dev/null
 fi 
 ```
-`getent affiche les entrées, ici c'est les utilisateur `
+`getent` :heavy_exclamation_mark: `affiche les entrées, ici c'est les utilisateur `
 
 
 ```bash
@@ -85,7 +85,7 @@ fi
 
 ```
 
-`Ici on modifie le mots de passe en fonction des chiffres choisit et l'utilisateur avec l'aide des boucles nbrmodify`
+`Ici on modifie le mots de passe en fonction des chiffres choisit et l'utilisateur avec l'aide des boucles nbrmodify` :heavy_exclamation_mark:
 
 
 :back:[Sommaire](https://github.com/nathymellal/SHELL/blob/main/README.md)
