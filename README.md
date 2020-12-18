@@ -11,7 +11,7 @@ Ce répertoire contient :
 - Un README.md qui inclus le sommaire
 - Un dossier `cours` qui inclus des `fichier.md`
 
-##   Sommaire 
+##  :o: Sommaire 
 1. [Les définitions et histoire](./Cours/definition.md)
 * [Autres version de Shell](https://github.com/nathymellal/SHELL/blob/main/Cours/version.md)
 
@@ -25,7 +25,7 @@ Ce répertoire contient :
 * [TP1](https://github.com/nathymellal/SHELL/blob/main/TP/tp1.md)
 
 
-## Mon avis sur ce travail 
+##  :o: Mon avis sur ce travail 
 
 Ce projet était très intéressant à produire, en effet malgré la situation sanitaire et l'obligation du travail en distanciel j'ai pu progresser dans de nombreuses compétences dont l'autonomie, la collaboration. De surcroit j'ai pu élargir mon champ de connaissances sur le Shell, en apprendre davantage sur son histoire et son utilisation. Pour conclure, je retiens que des aspects positifs et enrichissent sur ce projet.
 
