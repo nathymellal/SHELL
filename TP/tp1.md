@@ -12,14 +12,7 @@ Faire un script de gestion des utilisateurs, qui doit permettre :
 * de faire une recherche sur l'existence d'un utilisateur en particulier
 
 
-
-
-
-
-
-
-
- ###Le CODE & les commentaires :
+ ## Le CODE & les commentaires :
 
 
 ```bash
