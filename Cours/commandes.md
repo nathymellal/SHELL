@@ -63,7 +63,7 @@ Permet de crée un utilisateur username en lui affectant automatiquement les gro
 ### `groupadd`
 Permet de creer un groupe.
 
-###`groupdel`
+### `groupdel`
 Permet de supprimer un groupe.
 
 
