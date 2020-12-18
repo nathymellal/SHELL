@@ -22,7 +22,9 @@ Ce répertoire contient :
 
 3. [Les TP](https://github.com/nathymellal/SHELL/blob/main/TP/tps.md)
 
-* [TP1](https://github.com/nathymellal/SHELL/blob/main/TP/tp1.md)
+* [TP1](https://github.com/nathymellal/SHELL/blob/main/TP/tp1.md) :white_check_mark:
+
+* [TP4](https://github.com/nathymellal/SHELL/blob/main/TP/tp4.md) :white_medium_small_square:
 
 
 ##  :o: Mon avis sur ce travail 
